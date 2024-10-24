@@ -2,7 +2,7 @@
 - :boy: My name is Alison, I am a systems analysis and development student.
 - 🇧🇷 I live in Brazil, specifically in Limeira, São Paulo.
 - 🏫 I'm a student at UNIP.
-- 📖 I'm learning PHP, JavaScript, HTML5, CSS3.
+- 📖 I'm learning PHP, JavaScript, HTML5 and CSS3.
 
 ## 📚 Knowledge
 
