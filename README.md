@@ -38,7 +38,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlisonHf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=AlisonHf&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonHf&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </p>
 
