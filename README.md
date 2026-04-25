@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Alison 👋</h1>
 
 <p align="center">
-  Desenvolvedor com foco em <strong>Web</strong> · Formado em ADS pela UNIP
+  Desenvolvedor com foco em <strong>Desenvolvimento Web</strong> · Formado em ADS pela UNIP
 </p>
 
 ---
